@@ -1,2 +1,2 @@
 # LPS-notes
-Wiki for my notes
+See the Wiki
